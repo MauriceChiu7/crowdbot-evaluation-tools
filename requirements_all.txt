@@ -1,6 +1,6 @@
 # Requirement
 tqdm
-multiprocessing
+#multiprocessing
 ## data analysis
 numpy
 pandas

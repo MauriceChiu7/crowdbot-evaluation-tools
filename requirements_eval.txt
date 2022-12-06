@@ -1,12 +1,12 @@
 # Requirement
 tqdm
-multiprocessing
+#multiprocessing
 ## data analysis
 numpy
 pandas
 matplotlib
 seaborn
-scipy==1.7.2
+scipy
 numba==0.53.1
 jupyter
 ## quaternion calculation
